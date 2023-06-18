@@ -1,0 +1,12 @@
+[package]
+name = "chatterbox"
+version = "0.1.0"
+edition = "2021"
+authors = ["appybara13"]
+repository = "https://github.com/appybara13/chatterbox"
+homepage = "https://github.com/appybara13/chatterbox"
+license = "MIT"
+description = "An example of how to run chatter script"
+
+[dependencies]
+chatter = "0.1"
